@@ -1,0 +1,1 @@
+This repository demonstrates two common yet easily missed errors in Julia: a missing negative sign in a conditional statement and a missing `end` statement.  The `bug.jl` file contains the erroneous code, while `bugSolution.jl` provides the corrected version.  These errors highlight the importance of careful code review and testing, especially when dealing with conditional logic.
